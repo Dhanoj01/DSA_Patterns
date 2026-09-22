@@ -1,4 +1,4 @@
-package Pattern_2Pointer;
+package Pattern1_2Pointer;
 
 public class test {
 
